@@ -9,7 +9,7 @@ created_by: 376ce37d-e932-4866-a6ac-1a29c6303f39
 current_version_number: 0
 deleted_at: null
 deployment_source: platform
-description: live proof connect A 909cecdc
+description: "external billing master import connect.A.import.commit ff33263a"
 enterprise_id: 35526312-7e30-4992-9803-be05732fba7a
 name: Billing master proof A a56eecac
 name_slug: billing-master-proof-a-a56eecac
